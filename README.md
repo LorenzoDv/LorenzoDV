@@ -18,5 +18,5 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoDv&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoDv&langs_count=8)]
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LorenzoDv)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoDv&langs_count=8)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LorenzoDv)
