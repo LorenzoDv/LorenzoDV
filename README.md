@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP,SQL**
 
-- 👨‍💻 All of my projects are available at [https://lorenzodv.000webhostapp.com/](https://lorenzodv.000webhostapp.com/)
+- 👨‍💻 Web site [https://lorenzodv.000webhostapp.com/](https://lorenzodv.000webhostapp.com/)
 
 - 📫 How to reach me **lorenzo.devichi@hotmail.fr**
 
