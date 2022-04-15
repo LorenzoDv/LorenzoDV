@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
+- 🔭 I’m currently working on **3WA**
+
+- 🌱 I’m currently learning **PHP,SQL**
+
+- 👨‍💻 All of my projects are available at [https://lorenzodv.000webhostapp.com/](https://lorenzodv.000webhostapp.com/)
+
 - 📫 How to reach me **lorenzo.devichi@hotmail.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://lorenzodv.000webhostapp.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://lorenzodv.000webhostapp.com/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
