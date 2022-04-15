@@ -20,3 +20,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoDv&langs_count=8)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LorenzoDv)
+<a href="https://wakatime.com/@757746d4-f2de-41eb-aaf0-612e0915a7e4"><img src="https://wakatime.com/badge/user/757746d4-f2de-41eb-aaf0-612e0915a7e4.svg" alt="Total time coded since Apr 15 2022" /></a>
