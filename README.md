@@ -21,7 +21,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LorenzoDv&amp;theme=react" alt="willianrod&#39;s wakatime stats"></p>
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoDv&amp;layout=compact" alt="Top Langs"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoDv&amptheme=react;layout=compact" alt="Top Langs"></a>
 </p>
 <p align="center">
 <a href="https://wakatime.com/@757746d4-f2de-41eb-aaf0-612e0915a7e4"><img src="https://wakatime.com/badge/user/757746d4-f2de-41eb-aaf0-612e0915a7e4.svg" alt="Total time coded since Apr 15 2022" /></a>
