@@ -20,7 +20,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=LorenzoDv&amp;show_icons=true&amp;theme=gruvbox" alt="Anurag&#39;s GitHub stats"></p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=LorenzoDv" alt="willianrod&#39;s wakatime stats"></p>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=LorenzoDv&amp;theme=react" alt="willianrod&#39;s wakatime stats"></p>
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoDv&amp;theme=react" alt="Top Langs"></a></p>
 
