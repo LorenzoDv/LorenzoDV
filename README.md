@@ -27,4 +27,5 @@
 <p align="center">
 <a href="https://wakatime.com/@757746d4-f2de-41eb-aaf0-612e0915a7e4"><img src="https://wakatime.com/badge/user/757746d4-f2de-41eb-aaf0-612e0915a7e4.svg" alt="Total time coded since Apr 15 2022" /></a>
 </p>
+<p><img src="https://komarev.com/ghpvc/?username=thomas370" alt=""></p>
 
