@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
-<h3 align="center">FRONT-END DEVELOPER</h3>
+<h3 align="center">DEVELOPER WEB</h3>
 
 - 🔭 I’m currently working on **3WA**
 
