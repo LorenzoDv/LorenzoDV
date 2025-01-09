@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
 <h3 align="center">DEVELOPER WEB</h3>
 
-- 🔭 I’m currently working on **3WA**
-
-- 🌱 I’m currently learning **PHP,SQL**
-
-- 👨‍💻 Web site [https://lorenzodv.github.io/Portfolio/](https://lorenzodv.github.io/Portfolio/)
-
-- 📫 How to reach me **lorenzo.devichi@hotmail.fr**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
