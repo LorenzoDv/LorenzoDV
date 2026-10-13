@@ -54,21 +54,11 @@
 
 ---
 
-<!-- ============ TEMPS DE CODE ============ -->
-<h3 align="center">⏱️ Temps de code (WakaTime)</h3>
-
-<p align="center">
-  <!-- IMPORTANT : pour WakaTime, il faut ton identifiant WakaTime (pas ton pseudo GitHub) -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=757746d4-f2de-41eb-aaf0-612e0915a7e4&langs_count=6&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime stats" />
-</p>
-
----
-
 <!-- ============ COMMITS / ACTIVITÉ ============ -->
 <h3 align="center">📈 Activité & commits</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LorenzoDv&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&radius=10" alt="Activity graph" />
+  <img src="https://ghchart.rshah.org/7c3aed/LorenzoDv" alt="Calendrier de contributions" width="90%" />
 </p>
 
 <p align="center">
@@ -77,7 +67,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LorenzoDv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LorenzoDv&theme=tokyonight" height="170" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LorenzoDv&theme=tokyonight&utcOffset=2" height="170" alt="Heures de commit" />
 </p>
 
 ---
