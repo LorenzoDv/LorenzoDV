@@ -44,7 +44,7 @@
 <h3 align="center">📊 Statistiques GitHub</h3>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LorenzoDv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LorenzoDv&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoDv&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top langs" />
 </p>
 
